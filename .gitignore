@@ -1,4 +1,4 @@
-# Logs
+git remote -# Logs
 logs
 *.log
 npm-debug.log*
